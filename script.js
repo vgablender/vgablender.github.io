@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", function () {
   const sites = [
+    "https://forms.office.com/r/0vg9QKd1Tv",
+    "https://forms.office.com/r/0heirEAH5g",
     "https://forms.office.com/r/t0XQ0GgUGi",
-    "https://forms.office.com/r/yn6VpX9bQP",
-    "https://forms.office.com/r/z6qwckPAqn",
   ];
 
   function pickRandomSite() {
